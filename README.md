@@ -1,7 +1,7 @@
 # ASSBertReconstructed
 
 ## Overview
-ASSBertReconstructed is a project dedicated to implementing the proposed model from the paper ASSBert: Active and semi-supervised BERT for smart contract vulnerability detection.
+ASSBertReconstructed is a project dedicated to implementing the proposed model from the paper [ASSBert: Active and semi-supervised BERT for smart contract vulnerability detection](https://www.sciencedirect.com/science/article/abs/pii/S221421262300008X).
 
 ### Project Goals
 1. **Create Vocabulary for BERT:**
